@@ -1,0 +1,6 @@
+opencv-python==4.8.0.76
+numpy==1.24.2
+Pillow==9.4.0
+pyttsx3==2.90
+pandas==1.5.3
+tkinter==8.6.12
